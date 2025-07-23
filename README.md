@@ -1,4 +1,4 @@
-# README.md
+# AMORR
 
 ## About Amorr
 Amorr is a web application that serves as an online platform providing users with the luxury of choosing receiving various services such as haircuts, manicures, massages, makeup, and more in the comfort of their home.
